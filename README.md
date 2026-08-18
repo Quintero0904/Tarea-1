@@ -1,6 +1,6 @@
 # Tarea-1
 # Samuel Quintero E.
-![mi logo] 
+![mi logo](https://chatgpt.com/s/m_6a84c32d98588191967272da2cca94cf)
 **_Mañana? Mañana uno se muere_**
 
 ## Sobre Mí
